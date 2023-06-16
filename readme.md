@@ -13,3 +13,13 @@ Inside the week 1 folder you will find:
 - LittleLemonDB.sql: SQL script delivered after running Fordward Engineer in MySQL Workbench
 - ShowDatabases.sql: SQL script to show databases
   
+## Week 2
+
+Inside the week 2 folder you will find:
+
+### Table booking system
+
+- sumarizeData.sql: File with OrdersView, JOIN clause and ANY clause
+- optimizedQueries.sql: File with GetMaxQuantity procedure, GetOrderDetail prepared stament and CancelOrder procedure.
+- checkBokings.sql: File with inserting data, CheckBooking procedure and AddValidBooking.
+- updateBookings.sql: File with AddBooking procedure, UpdateBooking procedure and CancelBooking procedure.
